@@ -1,0 +1,185 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "3c2105572e290ae134b412c0d03555e34a09054e"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "CSharpAppiumWebTutorial/1.0.0": {
+        "dependencies": {
+          "Eyes.Appium": "3.9.1",
+          "Eyes.Selenium": "2.22.15"
+        },
+        "runtime": {
+          "CSharpAppiumWebTutorial.dll": {}
+        }
+      },
+      "Eyes.Appium/3.9.1": {
+        "runtime": {
+          "lib/net45/Eyes.Appium.DotNet.dll": {
+            "assemblyVersion": "3.9.1.0",
+            "fileVersion": "3.9.1.0"
+          }
+        }
+      },
+      "Eyes.Sdk/2.22.14": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "System.Drawing.Common": "4.5.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/CssParser.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netcoreapp2.1/Eyes.Sdk.DotNet.dll": {
+            "assemblyVersion": "2.22.14.0",
+            "fileVersion": "2.22.14.0"
+          }
+        }
+      },
+      "Eyes.Selenium/2.22.15": {
+        "dependencies": {
+          "Eyes.Sdk": "2.22.14",
+          "Selenium.WebDriver": "3.12.0",
+          "System.Runtime": "4.3.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/CssParser.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netcoreapp2.1/Eyes.Selenium.DotNet.dll": {
+            "assemblyVersion": "2.22.15.0",
+            "fileVersion": "2.22.15.0"
+          }
+        }
+      },
+      "Microsoft.Win32.SystemEvents/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.1.22727"
+          }
+        }
+      },
+      "Selenium.WebDriver/3.12.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/WebDriver.dll": {
+            "assemblyVersion": "3.12.0.0",
+            "fileVersion": "3.12.0.0"
+          }
+        }
+      },
+      "System.Drawing.Common/4.5.1": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "4.0.0.1",
+            "fileVersion": "4.6.26919.2"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.1",
+            "fileVersion": "4.6.26919.2"
+          },
+          "runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.1",
+            "fileVersion": "4.6.26919.2"
+          }
+        }
+      },
+      "System.Runtime/4.3.0": {}
+    }
+  },
+  "libraries": {
+    "CSharpAppiumWebTutorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Eyes.Appium/3.9.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9loVCH66jsvpfXpc555GKq7M2I8TI3lU1SY7fzdJsxYSd44TPdn5zBRS//v3kNGcbqdxhWn4evEynEjuVCS5+g==",
+      "path": "eyes.appium/3.9.1",
+      "hashPath": "eyes.appium.3.9.1.nupkg.sha512"
+    },
+    "Eyes.Sdk/2.22.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E6OYOwP6EfII3jCvhaS9B2IcsqEySaL0SjzXGJXQQHad+CDuOY4IYUw4edWmi2HRs6NR/psoElJhnd2M1Gyb7Q==",
+      "path": "eyes.sdk/2.22.14",
+      "hashPath": "eyes.sdk.2.22.14.nupkg.sha512"
+    },
+    "Eyes.Selenium/2.22.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kSG6q0A2pjEy919oWJ1WrbAEz7Psx1zlM0XsdSQE5TOBYK0HrS74CN7joJGKCj74TOdsOlnv55sUVyjhWtNjgw==",
+      "path": "eyes.selenium/2.22.15",
+      "hashPath": "eyes.selenium.2.22.15.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-K2TAr07pgl/m/J9ed3cmAzx0SD55kYuVfBG6SPRIH/ELTh/D2qGrjOWDQJo7r+LZl1nO2Nkl0UAQBUt6S2ewqQ==",
+      "path": "microsoft.win32.systemevents/4.5.0",
+      "hashPath": "microsoft.win32.systemevents.4.5.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jmVyoEyk0In8r+AObYQyFKVFm7uSRzE0XSHSbEtBJcZDMV6DqJoyB4FLcHwprPVhAh826so0db3DIKXVnpGoPA==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    },
+    "Selenium.WebDriver/3.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2nXxxXvJr8kloJGhrVf1Pl2+fzkx199jhT6f3l2K83Cmq85CY7/CWc/g1VfeuS2Y5k//fWUbquLVj9yO1V59dw==",
+      "path": "selenium.webdriver/3.12.0",
+      "hashPath": "selenium.webdriver.3.12.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-m3c7Fe/CS/jZ/nLBrxCCh52dYiC33GPbGfcF4CiVukb8+p121XUTHxs6sYKbWfvDVD8JssHcM+HVFLtzl3X3Xw==",
+      "path": "system.drawing.common/4.5.1",
+      "hashPath": "system.drawing.common.4.5.1.nupkg.sha512"
+    },
+    "System.Runtime/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
+      "path": "system.runtime/4.3.0",
+      "hashPath": "system.runtime.4.3.0.nupkg.sha512"
+    }
+  }
+}

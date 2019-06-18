@@ -1,0 +1,11 @@
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpAppiumWebTutorial/CSharpAppiumWebTutorial/bin/Debug/netcoreapp2.1/CSharpAppiumWebTutorial.deps.json
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpAppiumWebTutorial/CSharpAppiumWebTutorial/bin/Debug/netcoreapp2.1/CSharpAppiumWebTutorial.runtimeconfig.json
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpAppiumWebTutorial/CSharpAppiumWebTutorial/bin/Debug/netcoreapp2.1/CSharpAppiumWebTutorial.runtimeconfig.dev.json
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpAppiumWebTutorial/CSharpAppiumWebTutorial/bin/Debug/netcoreapp2.1/CSharpAppiumWebTutorial.dll
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpAppiumWebTutorial/CSharpAppiumWebTutorial/bin/Debug/netcoreapp2.1/CSharpAppiumWebTutorial.pdb
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpAppiumWebTutorial/CSharpAppiumWebTutorial/obj/Debug/netcoreapp2.1/CSharpAppiumWebTutorial.csprojAssemblyReference.cache
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpAppiumWebTutorial/CSharpAppiumWebTutorial/obj/Debug/netcoreapp2.1/CSharpAppiumWebTutorial.csproj.CoreCompileInputs.cache
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpAppiumWebTutorial/CSharpAppiumWebTutorial/obj/Debug/netcoreapp2.1/CSharpAppiumWebTutorial.AssemblyInfoInputs.cache
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpAppiumWebTutorial/CSharpAppiumWebTutorial/obj/Debug/netcoreapp2.1/CSharpAppiumWebTutorial.AssemblyInfo.cs
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpAppiumWebTutorial/CSharpAppiumWebTutorial/obj/Debug/netcoreapp2.1/CSharpAppiumWebTutorial.dll
+/Users/mattjasaitis/Desktop/Applitools/Tutorials/CSharpAppiumWebTutorial/CSharpAppiumWebTutorial/obj/Debug/netcoreapp2.1/CSharpAppiumWebTutorial.pdb

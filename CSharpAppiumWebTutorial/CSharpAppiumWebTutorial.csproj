@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Eyes.Selenium" Version="2.22.15" />
+    <PackageReference Include="Eyes.Appium" Version="3.9.1" />
+  </ItemGroup>
+</Project>
