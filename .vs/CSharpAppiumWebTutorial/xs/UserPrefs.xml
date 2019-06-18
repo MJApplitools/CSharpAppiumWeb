@@ -1,17 +1,15 @@
 ﻿<Properties StartupConfiguration="{BBBC1A5E-F52B-4BC1-AF65-60E7DAF9AE19}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpAppiumWebTutorial/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpAppiumWebTutorial/TestDriver.cs">
     <Files>
-      <File FileName="CSharpAppiumWebTutorial/Program.cs" Line="8" Column="18" />
+      <File FileName="CSharpAppiumWebTutorial/iOSTest.cs" Line="11" Column="10" />
+      <File FileName="CSharpAppiumWebTutorial/TestDriver.cs" Line="6" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpAppiumWebTutorial" expanded="True">
             <Node name="CSharpAppiumWebTutorial" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-              <Node name="Program.cs" selected="True" />
+              <Node name="iOSTest.cs" selected="True" />
             </Node>
           </Node>
         </State>
